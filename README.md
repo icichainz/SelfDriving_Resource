@@ -78,3 +78,9 @@ Problems
 http://www.businessinsider.com/autonomous-car-limitations-2016-8/#1-driverless-cars-struggle-going-over-bridges-1
 
 https://spectrum.ieee.org/cars-that-think/transportation/self-driving/the-2578-problems-with-self-driving-cars
+
+
+
+Machine Learning
+
+https://blog.csdn.net/qq_27513221/article/details/79867248
