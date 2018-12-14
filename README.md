@@ -10,6 +10,10 @@
 
 ## China companies
 
+blog:
+
+https://blog.csdn.net/ggjttfc/article/details/83926478
+
 Drive.ai、百度、蔚来汽车、AutoX、Plus.ai、Nuro、
 
 Momenta
